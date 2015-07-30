@@ -127,5 +127,5 @@ Caused By: java.lang.IllegalStateException: Context namespace element 'annotatio
 	at weblogic.work.PartitionUtility.runWorkUnderContext(PartitionUtility.java:41)
 	at weblogic.work.SelfTuningWorkManagerImpl.runWorkUnderContext(SelfTuningWorkManagerImpl.java:610)
 	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:391)
-	at weblogic.work.ExecuteThread.run(ExecuteThread.java:340)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:340)  
 > 
